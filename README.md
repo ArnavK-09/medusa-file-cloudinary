@@ -32,7 +32,7 @@ Then configure your `medusa-config.js` to include the plugin alongside the requi
         cloud_name: "YOUR_CLOUD_NAME",
         api_key: "YOUR_API_KEY",
         api_secret: "YOUR_API_SECRET",
-        root_folder: "ProductMedia",
+        root_folder: "YOUR_FOLDER_NAME",
         secure: true,
     },
 },
